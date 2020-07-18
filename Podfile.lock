@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (5.0.5)
+  - IQKeyboardManagerSwift (6.5.5)
+  - KRActivityIndicatorView (3.0.5)
+  - KRProgressHUD (3.4.5):
+    - KRActivityIndicatorView (= 3.0.5)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - SDWebImage (5.7.0):
+    - SDWebImage/Core (= 5.7.0)
+  - SDWebImage/Core (5.7.0)
+  - SwiftyCodeView (0.3.6):
+    - SwiftyCodeView/Core (= 0.3.6)
+  - SwiftyCodeView/Core (0.3.6)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - KRProgressHUD
+  - Moya
+  - SDWebImage
+  - SwiftyCodeView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - KRActivityIndicatorView
+    - KRProgressHUD
+    - Moya
+    - SDWebImage
+    - SwiftyCodeView
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  KRActivityIndicatorView: 912bc0413d98340f384b12a4e1e6aa8f42fb377d
+  KRProgressHUD: df4cdc3a1baf708d4276a089ee34d133fa9a6f3e
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  SDWebImage: a99471f452bdfa0ca52ddf5b1adf2b61cab1d1eb
+  SwiftyCodeView: 0252e3520749a3fda1a9b141873401f8e6c570ad
+
+PODFILE CHECKSUM: f369056ee2cab34854ae6c92604cda28440c445a
+
+COCOAPODS: 1.9.1
